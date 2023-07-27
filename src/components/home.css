@@ -1,0 +1,20 @@
+.homes{
+    border: 5px solid rgb(172, 227, 231);
+    width: 70%;
+    height: 100%;
+    text-align: center;
+   border-radius: 1.2rem;
+
+}
+.search{
+    background-color: rgb(213, 236, 140);
+    font-size: 2.0rem;  
+}
+input{
+    font-size: 1.6rem;
+}
+.data{
+    border: 5px solid rgb(97, 200, 90);
+    border-radius: 10px;
+    font-size: 1.4rem;
+}
